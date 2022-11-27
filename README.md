@@ -13,6 +13,6 @@ https://discord.gg/vrcqg  VRC Questing Group
 these are the servers i am in right now so yeah and please for the servers that say it
 dont share dll's(the mods)
 
-you can also find LemonLoader here
+you can not find LemonLoader here in this repostory
 Here is no tut for Modding Q so search on Youtube bc im assuming you know alr
 So that was the readme and enjoy the mods and goodbye for now!
