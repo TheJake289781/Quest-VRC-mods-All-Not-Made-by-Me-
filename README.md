@@ -16,3 +16,6 @@ dont share dll's(the mods)
 you can also find LemonLoader and the VRC APK's here in this repostory
 Here is no tut for Modding Q so search on Youtube bc im assuming you know alr
 So that was the readme and enjoy the mods and goodbye for now!
+
+IMPORTANT
+you NEED the MyEpicTestMod.dll in the mods folder
